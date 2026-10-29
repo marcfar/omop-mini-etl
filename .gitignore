@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.duckdb
+data/source/*.csv
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+vocab/
+quality_report.md
